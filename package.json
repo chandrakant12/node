@@ -1,0 +1,26 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "basic intro to node.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrakant12/node.git"
+  },
+  "author": "chandrakant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrakant12/learnnode/issues"
+  },
+  "homepage": "https://github.com/chandrakant12/learnnode#readme",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
